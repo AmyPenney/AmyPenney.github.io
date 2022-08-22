@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/coop-chronicles/static/css/main.408090c2.css",
+    "main.js": "/coop-chronicles/static/js/main.ff57a011.js",
+    "static/js/787.67cf606c.chunk.js": "/coop-chronicles/static/js/787.67cf606c.chunk.js",
+    "static/media/me.JPG": "/coop-chronicles/static/media/me.b4e8723f0cd6953966ca.JPG",
+    "static/media/bunny.JPG": "/coop-chronicles/static/media/bunny.fa6084a4b88e4598310f.JPG",
+    "static/media/event.jpg": "/coop-chronicles/static/media/event.e630148bf7724453391a.jpg",
+    "static/media/brainstorming.JPG": "/coop-chronicles/static/media/brainstorming.7326b557a5040f8e3b7d.JPG",
+    "static/media/office.JPG": "/coop-chronicles/static/media/office.1ba61ed9b1c41358d4dd.JPG",
+    "static/media/cupcake.JPG": "/coop-chronicles/static/media/cupcake.ea38ef2172aaa4ff2fad.JPG",
+    "static/media/working.JPG": "/coop-chronicles/static/media/working.4474756a817d2d1cbdcb.JPG",
+    "static/media/teamBrainstorm.jpg": "/coop-chronicles/static/media/teamBrainstorm.92aa7cec795bf3c9bf63.jpg",
+    "static/media/researchVisit.jpg": "/coop-chronicles/static/media/researchVisit.76da774c31600274edd6.jpg",
+    "static/media/preparingPresentation.JPG": "/coop-chronicles/static/media/preparingPresentation.f9aba69c658feb611b4e.JPG",
+    "static/media/firstDay.png": "/coop-chronicles/static/media/firstDay.40767fc44fb60e6b5571.png",
+    "static/media/downtown.jpg": "/coop-chronicles/static/media/downtown.9758221456183e481e9d.jpg",
+    "static/media/badges.png": "/coop-chronicles/static/media/badges.b1f2cd78453215858592.png",
+    "static/media/figma.png": "/coop-chronicles/static/media/figma.a2f221437f353dda3fbc.png",
+    "static/media/github.jpg": "/coop-chronicles/static/media/github.32cc3d937099a4c4d862.jpg",
+    "index.html": "/coop-chronicles/index.html",
+    "main.408090c2.css.map": "/coop-chronicles/static/css/main.408090c2.css.map",
+    "main.ff57a011.js.map": "/coop-chronicles/static/js/main.ff57a011.js.map",
+    "787.67cf606c.chunk.js.map": "/coop-chronicles/static/js/787.67cf606c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.408090c2.css",
+    "static/js/main.ff57a011.js"
+  ]
+}
